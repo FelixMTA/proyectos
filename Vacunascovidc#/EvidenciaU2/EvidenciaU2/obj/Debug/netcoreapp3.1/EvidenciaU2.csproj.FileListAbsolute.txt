@@ -1,0 +1,13 @@
+/Users/felix/Desktop/C/EvidenciaU2/EvidenciaU2/bin/Debug/netcoreapp3.1/EvidenciaU2.deps.json
+/Users/felix/Desktop/C/EvidenciaU2/EvidenciaU2/bin/Debug/netcoreapp3.1/EvidenciaU2.runtimeconfig.json
+/Users/felix/Desktop/C/EvidenciaU2/EvidenciaU2/bin/Debug/netcoreapp3.1/EvidenciaU2.runtimeconfig.dev.json
+/Users/felix/Desktop/C/EvidenciaU2/EvidenciaU2/bin/Debug/netcoreapp3.1/EvidenciaU2.dll
+/Users/felix/Desktop/C/EvidenciaU2/EvidenciaU2/bin/Debug/netcoreapp3.1/EvidenciaU2.pdb
+/Users/felix/Desktop/C/EvidenciaU2/EvidenciaU2/obj/Debug/netcoreapp3.1/EvidenciaU2.csproj.AssemblyReference.cache
+/Users/felix/Desktop/C/EvidenciaU2/EvidenciaU2/obj/Debug/netcoreapp3.1/EvidenciaU2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felix/Desktop/C/EvidenciaU2/EvidenciaU2/obj/Debug/netcoreapp3.1/EvidenciaU2.AssemblyInfoInputs.cache
+/Users/felix/Desktop/C/EvidenciaU2/EvidenciaU2/obj/Debug/netcoreapp3.1/EvidenciaU2.AssemblyInfo.cs
+/Users/felix/Desktop/C/EvidenciaU2/EvidenciaU2/obj/Debug/netcoreapp3.1/EvidenciaU2.csproj.CoreCompileInputs.cache
+/Users/felix/Desktop/C/EvidenciaU2/EvidenciaU2/obj/Debug/netcoreapp3.1/EvidenciaU2.dll
+/Users/felix/Desktop/C/EvidenciaU2/EvidenciaU2/obj/Debug/netcoreapp3.1/EvidenciaU2.pdb
+/Users/felix/Desktop/C/EvidenciaU2/EvidenciaU2/obj/Debug/netcoreapp3.1/EvidenciaU2.genruntimeconfig.cache

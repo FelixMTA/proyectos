@@ -1,0 +1,26 @@
+/Users/felix/Desktop/C/Evidencia/Evidencia/bin/Debug/netcoreapp3.1/Evidencia.deps.json
+/Users/felix/Desktop/C/Evidencia/Evidencia/bin/Debug/netcoreapp3.1/Evidencia.runtimeconfig.json
+/Users/felix/Desktop/C/Evidencia/Evidencia/bin/Debug/netcoreapp3.1/Evidencia.runtimeconfig.dev.json
+/Users/felix/Desktop/C/Evidencia/Evidencia/bin/Debug/netcoreapp3.1/Evidencia.dll
+/Users/felix/Desktop/C/Evidencia/Evidencia/bin/Debug/netcoreapp3.1/Evidencia.pdb
+/Users/felix/Desktop/C/Evidencia/Evidencia/obj/Debug/netcoreapp3.1/Evidencia.csproj.AssemblyReference.cache
+/Users/felix/Desktop/C/Evidencia/Evidencia/obj/Debug/netcoreapp3.1/Evidencia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felix/Desktop/C/Evidencia/Evidencia/obj/Debug/netcoreapp3.1/Evidencia.AssemblyInfoInputs.cache
+/Users/felix/Desktop/C/Evidencia/Evidencia/obj/Debug/netcoreapp3.1/Evidencia.AssemblyInfo.cs
+/Users/felix/Desktop/C/Evidencia/Evidencia/obj/Debug/netcoreapp3.1/Evidencia.csproj.CoreCompileInputs.cache
+/Users/felix/Desktop/C/Evidencia/Evidencia/obj/Debug/netcoreapp3.1/Evidencia.dll
+/Users/felix/Desktop/C/Evidencia/Evidencia/obj/Debug/netcoreapp3.1/Evidencia.pdb
+/Users/felix/Desktop/C/Evidencia/Evidencia/obj/Debug/netcoreapp3.1/Evidencia.genruntimeconfig.cache
+/Users/felix/Desktop/escuels/Semestre/anteriores/5,5,6/Programación net 2/unidad 2/tareas/Evidencia/Evidencia/bin/Debug/netcoreapp3.1/Evidencia.deps.json
+/Users/felix/Desktop/escuels/Semestre/anteriores/5,5,6/Programación net 2/unidad 2/tareas/Evidencia/Evidencia/bin/Debug/netcoreapp3.1/Evidencia.runtimeconfig.json
+/Users/felix/Desktop/escuels/Semestre/anteriores/5,5,6/Programación net 2/unidad 2/tareas/Evidencia/Evidencia/bin/Debug/netcoreapp3.1/Evidencia.runtimeconfig.dev.json
+/Users/felix/Desktop/escuels/Semestre/anteriores/5,5,6/Programación net 2/unidad 2/tareas/Evidencia/Evidencia/bin/Debug/netcoreapp3.1/Evidencia.dll
+/Users/felix/Desktop/escuels/Semestre/anteriores/5,5,6/Programación net 2/unidad 2/tareas/Evidencia/Evidencia/bin/Debug/netcoreapp3.1/Evidencia.pdb
+/Users/felix/Desktop/escuels/Semestre/anteriores/5,5,6/Programación net 2/unidad 2/tareas/Evidencia/Evidencia/obj/Debug/netcoreapp3.1/Evidencia.csproj.AssemblyReference.cache
+/Users/felix/Desktop/escuels/Semestre/anteriores/5,5,6/Programación net 2/unidad 2/tareas/Evidencia/Evidencia/obj/Debug/netcoreapp3.1/Evidencia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felix/Desktop/escuels/Semestre/anteriores/5,5,6/Programación net 2/unidad 2/tareas/Evidencia/Evidencia/obj/Debug/netcoreapp3.1/Evidencia.AssemblyInfoInputs.cache
+/Users/felix/Desktop/escuels/Semestre/anteriores/5,5,6/Programación net 2/unidad 2/tareas/Evidencia/Evidencia/obj/Debug/netcoreapp3.1/Evidencia.AssemblyInfo.cs
+/Users/felix/Desktop/escuels/Semestre/anteriores/5,5,6/Programación net 2/unidad 2/tareas/Evidencia/Evidencia/obj/Debug/netcoreapp3.1/Evidencia.csproj.CoreCompileInputs.cache
+/Users/felix/Desktop/escuels/Semestre/anteriores/5,5,6/Programación net 2/unidad 2/tareas/Evidencia/Evidencia/obj/Debug/netcoreapp3.1/Evidencia.dll
+/Users/felix/Desktop/escuels/Semestre/anteriores/5,5,6/Programación net 2/unidad 2/tareas/Evidencia/Evidencia/obj/Debug/netcoreapp3.1/Evidencia.pdb
+/Users/felix/Desktop/escuels/Semestre/anteriores/5,5,6/Programación net 2/unidad 2/tareas/Evidencia/Evidencia/obj/Debug/netcoreapp3.1/Evidencia.genruntimeconfig.cache

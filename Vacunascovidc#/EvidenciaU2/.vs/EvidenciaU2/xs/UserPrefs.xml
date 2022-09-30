@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{1E36AB6B-9B98-49A6-A4DC-1883BE91FC2B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EvidenciaU2/Program.cs">
+    <Files>
+      <File FileName="EvidenciaU2/Program.cs" Line="113" Column="40" />
+      <File FileName="EvidenciaU2/Vacuna.cs" />
+      <File FileName="EvidenciaU2/Pfizer.cs" />
+      <File FileName="EvidenciaU2/AstraZeneca.cs" />
+      <File FileName="EvidenciaU2/Sputnik.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EvidenciaU2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
